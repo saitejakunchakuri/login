@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="noacc">Don\'t have an account? <u><b>Sign in</b></u>!</string>
+</resources>
